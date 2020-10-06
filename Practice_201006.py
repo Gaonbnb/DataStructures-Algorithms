@@ -241,3 +241,4 @@ def fun_one():
 fun_one()
 print(fun_one.__name__)
 print(fun_one.__doc__)
+###有一部分还需要理解
